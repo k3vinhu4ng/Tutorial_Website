@@ -5,7 +5,7 @@
 ### Kevin Huang
 ### Kevin Ramos
 
-[Website Hosted on AzureCloud](http://tutorial218final.eastus.azurecontainer.io/)
+[Website Hosted on Azure Cloud](http://tutorial218final.eastus.azurecontainer.io/)
 
 [Website Hosted on Github Pages](https://k3vinhu4ng.github.io/Tutorial_Website/)
 
